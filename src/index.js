@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {BootstrapTable, TableHeaderColumn} from 'react-bootstrap-table';
+
 
 ReactDOM.render(
   <React.StrictMode>
