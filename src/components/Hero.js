@@ -9,7 +9,7 @@ Employee Directory
     </div>
     <br></br>
     <div className = "tagline">
-Click on 'Name' to sort by name or use search box to narrow your Results
+Click on 'Name' to sort by employee name or use search box to narrow your results
     </div>
 </div>
 

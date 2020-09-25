@@ -64,7 +64,15 @@ class SortedTable  extends React.Component {
     return (
       <div> 
         <table className="table table-hover">
-        <TableHead /> 
+        <thead className="thead-light">
+          <tr>
+          <th scope="col">Image</th>
+            <th onClick={this.sortName} className="name" scope="col">Name</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Email</th>
+            <th scope="col">DOB</th>
+          </tr>
+         </thead>
         <tbody>  
         {
         (this.state.sortedEmployees.length > 0) &&
