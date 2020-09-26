@@ -1,4 +1,50 @@
-# view_employee_directory
+## Project Name: Employee Directory
+
+[![picture 2](public/ed.jpg)](https://sskumar4.github.io/view_employee_directory/) 
+
+![video](assets/NoteTaker.gif)
+
+## Table of Contents
+
+<!-- vscode-markdown-toc -->
+* 1. [Links to deployed application and repository](#Linkstodeployedapplicationandrepository)
+* 2. [Introduction](#Introduction)
+* 3. [Technologies](#Technologies)
+* 4. [Features:](#Features)
+* 5. [Launch](#Launch)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+##  1. <a name='Linkstodeployedapplicationandrepository'></a>Links to deployed application and repository
+* [Deployed Application](https://sskumar4.github.io/view_employee_directory/)
+* [Repository](https://github.com/sskumar4/view_employee_directory)
+
+##  2. <a name='Introduction'></a>Introduction   
+An employee directory application using React. This application separates UI into components, component state, and respond to user events.
+
+##  3. <a name='Technologies'></a>Technologies 
+HTML, CSS, JSX, React, Random user API, boors api
+
+##  5. <a name='Features'></a>Features
+ * When the user loads the page, a table of random users is displayed, aong with image, name, date of birth, and email. 
+
+The user can
+
+  * Sort the table by Name
+
+  * Filter the users using search box by name.
+  
+
+##  6. <a name='Launch'></a>Launch
+
+Launch [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/) to view the index. 
+
+
+## view_employee_directory
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -28,42 +74,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
