@@ -2,7 +2,6 @@
 
 [![picture 2](public/ed.jpg)](https://sskumar4.github.io/view_employee_directory/) 
 
-![video](assets/NoteTaker.gif)
 
 ## Table of Contents
 
